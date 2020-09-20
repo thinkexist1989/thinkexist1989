@@ -1,4 +1,4 @@
-# Hi, I'mYang Luo~ :robot::man_technologist:
+# Hi, I'm Yang Luo~ :robot::man_technologist:
 
 <img src="https://raw.githubusercontent.com/thinkexist1989/thinkexist1989/master/logo.png" alt="banner that says Yang Luo  - robot engineer,assistant researcher and open source contributor">
 
