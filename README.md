@@ -4,8 +4,7 @@
 
 I'm now a robot engineer at Shenyang Institute of Automation, Chinese Academy of Science. My research interests include robot vision, robot control, motion planning and 3D visualization. Some technologies I enjoy working with include C++, Qt, OpenCV, OpenGL, CMake, Linux, ROS and etc. 
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinkexist1989)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------- | ------------- |
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinkexist1989)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Find me around the web :globe_with_meridians::
